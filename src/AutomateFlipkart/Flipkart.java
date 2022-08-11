@@ -23,6 +23,7 @@ public class Flipkart {
 	Thread.sleep(2000L);
 	driver.findElement(By.className("_2KpZ6l")).click();
 
+	
 	}
 
 }
