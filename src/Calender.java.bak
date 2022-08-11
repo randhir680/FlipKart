@@ -31,7 +31,6 @@ public class Calender {
 		if(text.equalsIgnoreCase("21"))
 		{
 		driver.findElements(By.className("day")).get(i).click();
-		
 		break;
 		}
 
